@@ -1,0 +1,47 @@
+body
+{
+    background-image: radial-gradient(circle at 57.12% 9.63%, #f7fa74 0, #e3f972 12.5%, #c9f26c 25%, #a9e862 37.5%, #80d855 50%, #50c84b 62.5%, #00bc49 75%, #00b54e 87.5%, #00b159 100%);
+}
+
+.header_div
+{
+    background: blue;
+    color: white;
+}
+
+.header_div p{
+    font-family: cursive;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: rgb(20, 21, 21);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: blue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(12, 12, 12);
+    font-family: 'Foldit';
+}
+h2
+{
+    font-family: 'Bungee Spice', cursive;
+    font-size: 40px;
+}
+#Nota
+{
+    font-family: 'Foldit', cursive;
+    font-size: 40px;
+}
